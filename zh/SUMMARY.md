@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Readme](README.md)
-* [入門](README.md)
+* Scurm 入門
   * [Scrum 簡介：敏捷開發的基礎](./scurm/Scrum-01-introduction.md)
   * [Scrum 的核心價值與原則](./scurm/Scrum-02-values.md)
   * [建立 Scrum 團隊：角色與職責](./scurm/Scrum-03-roles.md)

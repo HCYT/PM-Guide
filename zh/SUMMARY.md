@@ -1,11 +1,11 @@
-# PM Guide 目錄
+bui# PM Guide 目錄
 
 * [Readme](README.md)
 * Scurm 入門
   * [Scrum 簡介：敏捷開發的基礎](./scurm/Scrum-01-introduction.md)
   * [Scrum 的核心價值與原則](./scurm/Scrum-02-values.md)
   * [建立 Scrum 團隊：角色與職責](./scurm/Scrum-03-roles.md)
-      * [團隊的組成：Product Owner、Scrum Master 和團隊成員](./scurm/Scrum-03-01-roles-details.md)
+    * [團隊的組成：Product Owner、Scrum Master 和團隊成員](./scurm/Scrum-03-01-roles-details.md)
   * [Scrum 流程與會議](./scurm/Scrum-04-process.md)
   * [Scrum 工具和技術介紹](./scurm/Scrum-05-tools.md)
   * [有效的產品軌跡圖與 Sprint 計劃](./scurm/Scrum-06-roadmap.md)

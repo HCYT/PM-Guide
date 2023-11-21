@@ -1,5 +1,7 @@
 # About PM Guide
 
+關於 PM Guide PM 手冊 你可以直接在這裡觀看 (https://pmguide.pmlife.day/)[https://pmguide.pmlife.day/]
+
 ## Description
 
 Scrum 是一種敏捷開發方法，目的在通過專注於有限的工作量，快速進行產品開發。Scrum

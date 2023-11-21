@@ -1,6 +1,6 @@
 # About PM Guide
 
-關於 PM Guide PM 手冊 你可以直接在這裡觀看 (https://pmguide.pmlife.day/)[https://pmguide.pmlife.day/]
+關於 PM Guide PM 手冊 你可以直接在這裡觀看[https://pmguide.pmlife.day/](https://pmguide.pmlife.day/)
 
 ## Description
 

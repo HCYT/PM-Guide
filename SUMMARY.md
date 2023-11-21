@@ -9,7 +9,7 @@
   * [團隊的組成：Product Owner、Scrum Master 和團隊成員](/Scurm/Scrum-03-01-roles-details.md)
 * [Scrum 流程與會議](/Scurm/Scrum-04-process.md)
 * [Scrum 工具和技術介紹](/Scurm/Scrum-05-tools.md)
-* [產品地圖：管理產品路線圖和產品預估](/Scurm/Scurm-06-roadmap.md)
+* [產品地圖：管理產品路線圖和產品預估](/Scurm/Scrum-06-roadmap.md)
 * [Scrum 在遠端團隊的應用](/Scurm/Scrum-07-remote.md)
 * [迭代的執行流程：Sprint 和 Sprint 會議](/Scurm/Scrum-09-sprint.md)
 * [估點和評估優先順序：任務分派](/Scurm/Scrum-11-estimation.md)

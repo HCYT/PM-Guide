@@ -1,3 +1,4 @@
+# 團隊的組成：Product Owner、Scrum Master 和團隊成員
 Scrum 是一種用於軟體開發的敏捷方法，其核心理念是在一個自我組織的團隊中，透過反覆迭代開發和進行持續的反饋和調整，來建立高品質的軟體產品。Scrum 團隊由三個角色組成：Product Owner、Scrum Master 和團隊成員，每個角色都有其獨特的責任和功能。
 
 ## Product Owner：負責維護產品待辦清單

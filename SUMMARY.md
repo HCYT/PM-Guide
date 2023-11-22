@@ -27,7 +27,7 @@
   * [07-03.在 Scrum 中管理專案管理、資源管理與財務管理](/Scrum/Scrum-07-03-resource-financial.md)
   * [07-04.在 Scrum 中進行風險評估與處理](/Scrum/Scrum-07-04-risk-assessment.md)
 * [08.在 Scrum 中實施品質保證流程](/Scrum/Scrum-08-00-quality-assurance.md)
-  * [08-01.在 Scrum 管理測試、驗收與回饋](/Scrum/Scurm-08-01-testing-acceptance.md)
+  * [08-01.在 Scrum 管理測試、驗收與回饋](/Scrum/Scrum-08-01-testing-acceptance.md)
 * [09.培養團隊的敏捷精神](/Scrum/Scrum-09-00-agile-spirit.md)
   * [09-01.理解 Scrum 組織架構、文化和適應性](/Scrum/Scrum-09-01-organization.md)
   * [09-02.建立 Scrum 團隊文化、目標和價值](/Scrum/Scrum-09-02-team-culture.md)

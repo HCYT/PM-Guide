@@ -34,4 +34,4 @@ Scrum 站立會議 ( Daily Stand-up meeting )是 Scrum 中非常重要的一個�
 
 ### 延伸閱讀
 
-[Scrum Sprint Stand-up meeting：如何提高團隊決策效率](https://pmlife.day/Project/read/scrum-daily-stand-up-meeting-how-to-improve-team-decision-making-efficiency)
+[Scrum Sprint Stand-up meeting：如何提高團隊決策效率](https://pmlife.day/Project/read/Scrum-daily-stand-up-meeting-how-to-improve-team-decision-making-efficiency)

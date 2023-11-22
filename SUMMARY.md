@@ -56,4 +56,5 @@
   * [11-05.敏捷開發的新趨勢與展望](/Scrum/Scrum-11-05-agile-trends.md)
   * [11-06.外部合作夥伴評估：時程與風險管理](/Scrum/Scrum-11-06-vendor-assessment.md)
   
-## 產品經理
+## 產品經理指南
+## 專案經理指南

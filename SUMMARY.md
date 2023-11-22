@@ -21,7 +21,6 @@
   * [16.透過 Backlog grooming Meeting 規劃產品策略與規劃](/Scrum/Advanced-16-backlog-grooming.md)
   * [06-01.估點和評估優先順序：任務分派](/Scurm/Scrum-06-02-estimation.md)
   * [06-02.速度圖和燃盡圖：評估和計分](/Scurm/Scrum-06-03-velocity.md)
- 
 * 07.專案管理
   * [07-01.在 Scrum 中進行產品策略、計劃與執行](/Scrum/Advanced-07-01-strategy-planning.md)
   * [07-02.在 Scrum 中管理團隊成本效益、時間效益與品質效益](/Scrum/Advanced-07-02-cost-time-quality.md)

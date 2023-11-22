@@ -39,7 +39,7 @@
   * [09-08.促進團隊成員的專業發展](/Scrum/Scrum-09-08-professional-development.md)
   * [09-09.如何提升 Scrum 團隊效率與協作](/Scrum/Scrum-09-09-team-efficiency.md)
   * [09-10.確保 Scrum 專案順利完成](/Scrum/Scrum-09-10-project-completion.md)
-  * [09-11.與其他 Scrum 團隊合作](/Scrum/Scrum-19-11-collaboration.md)
+  * [09-11.與其他 Scrum 團隊合作](/Scrum/Scrum-09-11-collaboration.md)
 * [14.改善 Scrum 的方法與技巧](/Scrum/Scrum-14-improvement.md)
 * [15.比較 Scrum 與其他敏捷方法](/Scrum/Scrum-15-comparison-agile.md)
 * [16.比較 Scrum 與傳統專案管理方法](/Scrum/Scrum-16-comparison-traditional.md)

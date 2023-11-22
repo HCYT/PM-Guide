@@ -7,10 +7,6 @@ Scrum 與傳統專案管理的比較： Waterfall、PMBOK 和 PRINCE2
 
 Scrum 是一種敏捷專案管理框架，旨在協助團隊快速高效地開發產品。Scrum 的核心理念是持續學習和不斷改進。Scrum 中專案團隊被分成三個角色：產品負責人、開發團隊和 Scrum Master。Scrum 透過短週期的 Sprint、每日 Scrum 會議、產品待辦清單和產品增量等工具來促進團隊的自我組織和自我管理。
 
-延伸閱讀：
-
-[入門 Scrum Part1 敏捷開發的基礎指南](https://pmlife.day/Project/Read/introduction-to-scrum-part1-a-fundamental-guide-to-agile-development) 
-
 ### 什麼是 Waterfall？
 
 Waterfall 是一種傳統的專案管理方法，也被稱為瀑布模型。Waterfall 的過程是線性的，分為需求分析、設計、實施、測試和維護等階段。每個階段都必須完成後才能進入下一個階段。Waterfall 的目標是透過計劃、監控和控制來實現專案目標。

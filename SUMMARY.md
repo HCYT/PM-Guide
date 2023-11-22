@@ -2,7 +2,7 @@
 ## 前言
 * [Readme](README.md)
 
-## Scrum 入門
+## Scrum 管理
 * [01.Scrum 簡介：敏捷開發的基礎](/Scrum/Scrum-01-introduction.md)
 * [02.Scrum 的核心價值與原則](/Scrum/Scrum-02-values.md)
 * [03.建立 Scrum 團隊：角色與職責](/Scrum/Scrum-03-00-roles.md)
@@ -40,23 +40,20 @@
   * [09-09.如何提升 Scrum 團隊效率與協作](/Scrum/Scrum-09-09-team-efficiency.md)
   * [09-10.確保 Scrum 專案順利完成](/Scrum/Scrum-09-10-project-completion.md)
   * [09-11.與其他 Scrum 團隊合作](/Scrum/Scrum-09-11-collaboration.md)
-* [14.改善 Scrum 的方法與技巧](/Scrum/Scrum-14-improvement.md)
-* [15.比較 Scrum 與其他敏捷方法](/Scrum/Scrum-15-comparison-agile.md)
-* [16.比較 Scrum 與傳統專案管理方法](/Scrum/Scrum-16-comparison-traditional.md)
-* [17.Scrum 在遠端團隊的應用](/Scrum/Scrum-17-remote.md)
-* [18.Scrum 在不同產業的應用](/Scrum/Scrum-18-industry-application.md)
-* [19.Scrum 的優點和缺點](/Scrum/Scrum-19-pros-cons.md)
-* [20.如何成為一名成功的 Scrum Master](/Scrum/Scrum-20-master.md)
-* [21.如何成為一名成功的 Product Owner](/Scrum/Scrum-21-owner.md)
-* [22.如何成為一名成功的 Scrum 團隊成員](/Scrum/Scrum-22-team-member.md)
+* 10.Scrum 之路
+  * [10-01.改善 Scrum 的方法與技巧](/Scrum/Scrum-10-01-improvement.md)
+  * [10-02.Scrum 的優點和缺點](/Scrum/Scrum-10-02-pros-cons.md)
+  * [10-03.如何成為一名成功的 Scrum Master](/Scrum/Scrum-10-03-master.md)
+  * [10-04.如何成為一名成功的 Product Owner](/Scrum/Scrum-10-04-owner.md)
+  * [10-05.如何成為一名成功的 Scrum 團隊成員](/Scrum/Scrum-10-05-team-member.md)
+* 11.Scrum 比較與應用
+  * [11-01.比較 Scrum 與其他敏捷方法](/Scrum/Scrum-11-01-comparison-agile.md)
+  * [11-02.比較 Scrum 與傳統專案管理方法](/Scrum/Scrum-11-02-comparison-traditional.md)
+  * [11-03.Scrum 在不同產業的應用](/Scrum/Scrum-11-03-industry-application.md)
+  * [11-04.Scrum 在遠端團隊的應用](/Scrum/Scrum-11-04-remote.md)
+  * [11-05.敏捷開發的趨勢與發展方向](/Scrum/Advanced-14-agile-trends.md)
+  * [11-06.評估外部合作夥伴的工作時程與風險](/Scrum/Advanced-24-vendor-assessment.md)
 
-
-## Scrum 進階
-
-
-* [14.敏捷開發的趨勢與發展方向](/Scrum/Advanced-14-agile-trends.md)
-* [15.遠端團隊如何實踐 Scrum](/Scrum/Advanced-15-remote-teams.md)
-* [24.正確評估外部合作夥伴的工作時程與風險](/Scrum/Advanced-24-vendor-assessment.md)
 
 
 ## 產品經理

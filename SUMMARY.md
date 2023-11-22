@@ -9,7 +9,7 @@
   * [03-1.團隊的組成：Product Owner、Scrum Master 和團隊成員](/Scrum/Scrum-03-01-roles-details.md)
 * [04.Scrum 流程與會議](/Scrum/Scrum-04-00-process.md)
   * [04-01.迭代的執行流程：Sprint 和 Sprint 會議](/Scrum/Scrum-04-01-sprint.md)
-  * [04-02.Daily Stand-up Meeting - 改善溝通](/Scrum/Scrum-04-02-sprint.md)
+  * [04-02.Daily Stand-up Meeting - 改善溝通](/Scrum/Scrum-04-02-daily-standup.md)
   * [04-03.Planning Meeting - 有效規劃與任務安排](/Scrum/Scrum-04-03-planning-meeting.md)
   * [04-04.Review Meeting - 評估 Sprint](/Scrum/Scrum-04-04-review-meeting.md)
   * [04-05.Retrospective Meeting 持續改進團隊](/Scrum/Scrum-04-05-retrospective.md)

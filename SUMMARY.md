@@ -51,8 +51,8 @@
   * [11-02.比較 Scrum 與傳統專案管理方法](/Scrum/Scrum-11-02-comparison-traditional.md)
   * [11-03.Scrum 在不同產業的應用](/Scrum/Scrum-11-03-industry-application.md)
   * [11-04.Scrum 在遠端團隊的應用](/Scrum/Scrum-11-04-remote.md)
-  * [11-05.敏捷開發的趨勢與發展方向](/Scrum/Advanced-14-agile-trends.md)
-  * [11-06.評估外部合作夥伴的工作時程與風險](/Scrum/Advanced-24-vendor-assessment.md)
+  * [11-05.敏捷開發的趨勢與發展方向](/Scrum/Scrum-11-05-agile-trends.md)
+  * [11-06.評估外部合作夥伴的工作時程與風險](/Scrum/Scrum-11-06-vendor-assessment.md)
 
 
 

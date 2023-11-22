@@ -22,8 +22,8 @@
   * [06-05.估點和評估優先順序：任務分派](/Scrum/Scrum-06-05-estimation.md)
   * [06-06.速度圖和燃盡圖：評估和計分](/Scrum/Scrum-06-06-velocity.md)
 * 07.專案管理
-  * [07-01.在 Scrum 中進行產品策略、計劃與執行](/Scrum/Advanced-07-01-strategy-planning.md)
-  * [07-02.在 Scrum 中管理團隊成本效益、時間效益與品質效益](/Scrum/Advanced-07-02-cost-time-quality.md)
+  * [07-01.在 Scrum 中進行產品策略、計劃與執行](/Scrum/Scrum-07-01-strategy-planning.md)
+  * [07-02.在 Scrum 中管理團隊成本效益、時間效益與品質效益](/Scrum/Scrum-07-02-cost-time-quality.md)
   * [07-03.在 Scrum 中管理專案管理、資源管理與財務管理](/Scrum/Advanced-07-03-resource-financial.md)
   * [07-04.在 Scrum 中進行風險評估與處理](/Scrum/Advanced-07-04-risk-assessment.md)
 * [08.在 Scrum 中實施品質保證流程](/Scrum/Advanced-11-quality-assurance.md)

@@ -1,6 +1,8 @@
-# Summaryh
+# Summary
+
 ## 前言
 * [Readme](README.md)
+
 
 ## Scrum 管理指南
 * [01. Scrum 入門：敏捷開發基礎](/Scrum/Scrum-01-introduction.md)
@@ -54,56 +56,4 @@
   * [11-05. 敏捷開發的新趨勢與展望](/Scrum/Scrum-11-05-agile-trends.md)
   * [11-06. 外部合作夥伴評估：時程與風險管理](/Scrum/Scrum-11-06-vendor-assessment.md)
   * 
-## Scrum 管理
-* [01.Scrum 基礎：敏捷開發導論](/Scrum/Scrum-01-introduction.md)
-* [02.Scrum 核心價值與原則解析](/Scrum/Scrum-02-values.md)
-* [03.Scrum 團隊建設：角色與職責深掘](/Scrum/Scrum-03-00-roles.md)
-  * [03-1.深入了解團隊角色：Product Owner、Scrum Master 與團隊成員](/Scrum/Scrum-03-01-roles-details.md)
-* [04.Scrum 流程全覽：關鍵會議與步驟](/Scrum/Scrum-04-00-process.md)
-  * [04-01.Sprint 流程深度解析：從規劃到回顧](/Scrum/Scrum-04-01-sprint.md)
-  * [04-02.Daily Stand-up Meeting - 改善溝通](/Scrum/Scrum-04-02-daily-standup.md)
-  * [04-03.Planning Meeting - 有效規劃與任務安排](/Scrum/Scrum-04-03-planning-meeting.md)
-  * [04-04.Review Meeting - 評估 Sprint](/Scrum/Scrum-04-04-review-meeting.md)
-  * [04-05.Retrospective Meeting 持續改進團隊](/Scrum/Scrum-04-05-retrospective.md)
-* [05.Scrum 工具和技術介紹](/Scrum/Scrum-05-tools.md)
-* 06.產品管理
-  * [06-01.理解產品生命週期](/Scrum/Scrum-06-01-product-lifecycle.md)
-  * [06-02.產品地圖制定：路線規劃與預估策略](/Scrum/Scrum-06-02-roadmap.md) 
-  * [06-03.建立好的產品待辦清單及衝刺待辦清單](/Scrum/Scrum-06-03-backlog.md)
-  * [06-04.透過 Backlog grooming Meeting 規劃產品策略與規劃](/Scrum/Scrum-06-04-backlog-grooming.md)
-  * [06-05.估點和評估優先順序：任務分派](/Scrum/Scrum-06-05-estimation.md)
-  * [06-06.速度圖和燃盡圖：評估和計分](/Scrum/Scrum-06-06-velocity.md)
-* 07.專案管理
-  * [07-01.Scrum 中的產品策略：計劃與執行要訣](/Scrum/Scrum-07-01-strategy-planning.md)
-  * [07-02.在 Scrum 中管理團隊成本效益、時間效益與品質效益](/Scrum/Scrum-07-02-cost-time-quality.md)
-  * [07-03.在 Scrum 中管理專案管理、資源管理與財務管理](/Scrum/Scrum-07-03-resource-financial.md)
-  * [07-04.在 Scrum 中進行風險評估與處理](/Scrum/Scrum-07-04-risk-assessment.md)
-* [08.在 Scrum 中實施品質保證流程](/Scrum/Scrum-08-00-quality-assurance.md)
-  * [08-01.在 Scrum 管理測試、驗收與回饋](/Scrum/Scrum-08-01-testing-acceptance.md)
-* [09.培養團隊的敏捷精神](/Scrum/Scrum-09-00-agile-spirit.md)
-  * [09-01.理解 Scrum 組織架構、文化和適應性](/Scrum/Scrum-09-01-organization.md)
-  * [09-02.建立 Scrum 團隊文化、目標和價值](/Scrum/Scrum-09-02-team-culture.md)
-  * [09-03.在產品開發中實施 Scrum](/Scrum/Scrum-09-03-product-development.md)
-  * [09-04.在 Scrum 團隊中提升領導能力](/Scrum/Scrum-09-04-leadership.md)
-  * [09-05.提升團隊決策效率的方法](/Scrum/Scrum-09-05-decision-making.md)
-  * [09-06.促使團隊成員承擔責任與主動變革](/Scrum/Scrum-09-06-accountability.md)
-  * [09-07.在團隊中實施自我組織原則](/Scrum/Scrum-09-07-self-organization.md)
-  * [09-08.促進團隊成員的專業發展](/Scrum/Scrum-09-08-professional-development.md)
-  * [09-09.如何提升 Scrum 團隊效率與協作](/Scrum/Scrum-09-09-team-efficiency.md)
-  * [09-10.確保 Scrum 專案順利完成](/Scrum/Scrum-09-10-project-completion.md)
-  * [09-11.與其他 Scrum 團隊合作](/Scrum/Scrum-09-11-collaboration.md)
-* 10.Scrum 之路
-  * [10-01.改善 Scrum 的方法與技巧](/Scrum/Scrum-10-01-improvement.md)
-  * [10-02.Scrum 的優點和缺點](/Scrum/Scrum-10-02-pros-cons.md)
-  * [10-03.如何成為一名成功的 Scrum Master](/Scrum/Scrum-10-03-master.md)
-  * [10-04.如何成為一名成功的 Product Owner](/Scrum/Scrum-10-04-owner.md)
-  * [10-05.如何成為一名成功的 Scrum 團隊成員](/Scrum/Scrum-10-05-team-member.md)
-* 11.Scrum 比較與應用
-  * [11-01.比較 Scrum 與其他敏捷方法](/Scrum/Scrum-11-01-comparison-agile.md)
-  * [11-02.比較 Scrum 與傳統專案管理方法](/Scrum/Scrum-11-02-comparison-traditional.md)
-  * [11-03.Scrum 在不同產業的應用](/Scrum/Scrum-11-03-industry-application.md)
-  * [11-04.Scrum 在遠端團隊的應用](/Scrum/Scrum-11-04-remote.md)
-  * [11-05.敏捷開發未來趨勢：Scrum 的演進與展望](/Scrum/Scrum-11-05-agile-trends.md)
-  * [11-06.評估外部合作夥伴的工作時程與風險](/Scrum/Scrum-11-06-vendor-assessment.md)
-
 ## 產品經理

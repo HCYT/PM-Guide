@@ -1,0 +1,53 @@
+# 實務工作指南
+
+## 開發與技術管理
+* [01. Ticket 創建與管理](/PracticalWork/Development-01-ticketing-system.md)
+  * [01-01. 正確開出 Ticket 的技巧](/PracticalWork/Development-01-01-ticket-creation.md)
+  * [01-02. 撰寫有效的 User Story](/PracticalWork/Development-01-02-user-story.md)
+  * [01-03. Ticket 優先級與分類](/PracticalWork/Development-01-03-prioritization.md)
+  * [01-04. Ticket 追蹤與更新](/PracticalWork/Development-01-04-tracking-updates.md)
+* [02. 前後端溝通實務：有效合作策略](/PracticalWork/Development-02-frontend-backend-communication.md)
+  * [02-01. 接口協議與合作流程](/PracticalWork/Development-02-01-interface-protocol.md)
+  * [02-02. 確保溝通質量與效率](/PracticalWork/Development-02-02-communication-quality.md)
+* [03. API 開發與管理實務](/PracticalWork/Development-03-api-development.md)
+  * [03-01. API 設計原則與最佳實踐](/PracticalWork/Development-03-01-api-design.md)
+  * [03-02. API 安全性與性能優化](/PracticalWork/Development-03-02-api-security-performance.md)
+* [04. 軟體測試實踐：測試規劃與管理](/PracticalWork/Development-04-testing-practices.md)
+  * [04-01. 測試用例開發與管理](/PracticalWork/Development-04-01-test-case-development.md)
+  * [04-02. 自動化測試與持續整合](/PracticalWork/Development-04-02-automation-continuous-integration.md)
+
+## 設計與用戶體驗
+* [05. Wireframe 設計與應用](/PracticalWork/Design-01-wireframe.md)
+  * [05-01. Wireframe 設計原則與工具](/PracticalWork/Design-01-01-wireframe-principles.md)
+  * [05-02. 從 Wireframe 到原型](/PracticalWork/Design-01-02-prototype-development.md)
+* [06. UI/UX 設計原則與實踐](/PracticalWork/Design-02-ui-ux.md)
+  * [06-01. UI 元素與互動設計](/PracticalWork/Design-02-01-ui-elements-interaction.md)
+  * [06-02. UX 研究方法與用戶測試](/PracticalWork/Design-02-02-ux-research-user-testing.md)
+* [07. 用戶研究方法與應用](/PracticalWork/Design-03-user-research.md)
+  * [07-01. 用戶訪談與觀察](/PracticalWork/Design-03-01-user-interviews-observation.md)
+  * [07-02. 用戶畫像與旅程圖](/PracticalWork/Design-03-02-personas-journey-maps.md)
+
+## 市場分析與策略
+* [08. 競品分析：策略與方法](/PracticalWork/Market-01-competitive-analysis.md)
+  * [08-01. 競品數據收集與評估](/PracticalWork/Market-01-01-data-collection-evaluation.md)
+  * [08-02. 市場趨勢分析](/PracticalWork/Market-01-02-market-trends-analysis.md)
+* [09. 市場調查技巧與應用](/PracticalWork/Market-02-market-research.md)
+  * [09-01. 調查設計與執行](/PracticalWork/Market-02-01-survey-design-execution.md)
+  * [09-02. 數據分析與見解提煉](/PracticalWork/Market-02-02-data-analysis-insights.md)
+* [10. 產品定位與市場策略](/PracticalWork/Market-03-product-positioning.md)
+  * [10-01. 產品定位策略](/PracticalWork/Market-03-01-positioning-strategy.md)
+  * [10-02. 價值主張與品牌溝通](/PracticalWork/Market-03-02-value-proposition-branding.md)
+
+## 數據分析與優化
+* [11. AB 測試：方法與最佳實踐](/PracticalWork/Data-01-ab-testing.md)
+  * [11-01. AB 測試設計與實施](/PracticalWork/Data-01-01-ab-test-design-implementation.md)
+  * [11-02. 結果分析與決策](/PracticalWork/Data-01-02-results-analysis-decision-making.md)
+* [12. 數據埋點策略與分析](/PracticalWork/Data-02-data-tracking.md)
+  * [12-01. 數據收集計劃與執行](/PracticalWork/Data-02-01-data-collection-plan.md)
+  * [12-02. 數據分析與見解](/PracticalWork/Data-02-02-data-analysis-insights.md)
+* [13. Google Analytics：工具應用與分析](/PracticalWork/Data-03-google-analytics.md)
+  * [13-01. 設定與自定義報告](/PracticalWork/Data-03-01-setup-custom-reports.md)
+  * [13-02. 數據解讀與行動方針](/PracticalWork/Data-03-02-data-interpretation-action.md)
+* [14. 數據驅動決策流程](/PracticalWork/Data-04-data-driven-decision-making.md)
+  * [14-01. 數據驅動文化的建立](/PracticalWork/Data-04-01-building-data-driven-culture.md)
+  * [14-02. 數據驅動策略與實施](/PracticalWork/Data-04-02-data-driven-strategy-implementation.md)

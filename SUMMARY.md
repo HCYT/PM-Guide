@@ -15,12 +15,12 @@
   * [04-05.Retrospective Meeting 持續改進團隊](/Scrum/Scrum-04-05-retrospective.md)
 * [05.Scrum 工具和技術介紹](/Scrum/Scrum-05-tools.md)
 * 06.產品管理
-  * [06-04.理解產品生命周期](/Scrum/Advanced-06-05-product-lifecycle.md)
-  * [06-01.產品地圖：管理產品路線圖和產品預估](/Scrum/Scrum-06-01-roadmap.md) 
-  * [06-03.建立好的產品待辦清單及衝刺待辦清單](/Scrum/Scrum-06-04-backlog.md)
-  * [16.透過 Backlog grooming Meeting 規劃產品策略與規劃](/Scrum/Advanced-16-backlog-grooming.md)
-  * [06-01.估點和評估優先順序：任務分派](/Scrum/Scrum-06-02-estimation.md)
-  * [06-02.速度圖和燃盡圖：評估和計分](/Scrum/Scrum-06-03-velocity.md)
+  * [06-01.理解產品生命週期](/Scrum/Scrum-06-01-product-lifecycle.md)
+  * [06-02.產品地圖：管理產品路線圖和產品預估](/Scrum/Scrum-06-02-roadmap.md) 
+  * [06-03.建立好的產品待辦清單及衝刺待辦清單](/Scrum/Scrum-06-03-backlog.md)
+  * [06-04.透過 Backlog grooming Meeting 規劃產品策略與規劃](/Scrum/Scrum-06-04-backlog-grooming.md)
+  * [06-05.估點和評估優先順序：任務分派](/Scrum/Scrum-06-05-estimation.md)
+  * [06-06.速度圖和燃盡圖：評估和計分](/Scrum/Scrum-06-06-velocity.md)
 * 07.專案管理
   * [07-01.在 Scrum 中進行產品策略、計劃與執行](/Scrum/Advanced-07-01-strategy-planning.md)
   * [07-02.在 Scrum 中管理團隊成本效益、時間效益與品質效益](/Scrum/Advanced-07-02-cost-time-quality.md)

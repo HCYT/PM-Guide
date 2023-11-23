@@ -1,5 +1,4 @@
-##   
-Scrum 與傳統專案管理的比較： Waterfall、PMBOK 和 PRINCE2
+##   Scrum 與傳統專案管理的比較： Waterfall、PMBOK 和 PRINCE2
 
 在本文中我將探討 Scrum 和三種傳統專案管理方法： Waterfall、PMBOK 和 PRINCE2 的比較。
 

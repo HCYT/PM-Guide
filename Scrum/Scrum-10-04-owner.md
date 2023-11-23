@@ -40,7 +40,7 @@ Product Owner 需要與團隊、利益相關者和客戶建立良好的溝通渠
 
 成為一名成功的 Product Owner 還需要理解 Agile 和 Scrum 方法論。Product Owner 應該理解 Scrum 的價值觀、原則和實踐，以便更好地應用 Scrum 進行產品開發。此外 Product Owner 還應該熟悉 Agile 的核心原則，以便更好地理解 Scrum 的價值。
 
-## 4.總結
+## 4.結論
 
 Product Owner 是 Scrum 團隊的一個重要角色，負責確保團隊開發的產品能夠符合客戶需求和商業目標。Product Owner 需要制定產品願景、管理產品待辦清單、與團隊和利益相關者溝通和協調、以及對產品進行測試和驗收。成為一名成功的 Product Owner 需要熟悉客戶需求、建立良好的溝通渠道、持續學習和提高技能以及理解 Agile 和 Scrum 方法論。只有透過持續的學習和實踐，Product Owner 才能夠更好地負責產品開發，並為團隊帶來更大的價值。
 

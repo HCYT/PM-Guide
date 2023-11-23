@@ -14,7 +14,7 @@ Sprint 計劃會議( Sprint Planning Meeting )是 Scrum 方法中非常重要的
 
 ## 高效的 Sprint ( Sprint Review Meeting )
 
-Sprint ( Sprint Review Meeting )是 Scrum 方法中非常重要的一個環節。在這個會議中，開發團隊需要回顧本次 Sprint 的過程和成果，並進行經驗教訓的分享和總結。為了確保 Sprint ( Sprint Review Meeting )高效，我們需要確保以下事項： 
+Sprint ( Sprint Review Meeting )是 Scrum 方法中非常重要的一個環節。在這個會議中，開發團隊需要回顧本次 Sprint 的過程和成果，並進行經驗教訓的分享和結論。為了確保 Sprint ( Sprint Review Meeting )高效，我們需要確保以下事項： 
 
 *   Sprint ( Sprint Review Meeting )的時間應該明確，不要超時。
 *   開發團隊應該對本次 Sprint 的過程和成果進行充分的研究和討論，以確保可以從中獲取足夠的經驗教訓。
